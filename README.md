@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<br />
-<hr />
 
 **`Digital Craftsman (Developer/Creator)`**
 

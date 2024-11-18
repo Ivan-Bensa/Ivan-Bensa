@@ -4,6 +4,11 @@
 
 I'm an front-end developer
 
+### ⚡ Languages and Tools
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+
 <!--
 **Ivan-Bensa/Ivan-Bensa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

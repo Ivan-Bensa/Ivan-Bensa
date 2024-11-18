@@ -2,6 +2,8 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
+I'm an front-end developer
+
 <!--
 **Ivan-Bensa/Ivan-Bensa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
